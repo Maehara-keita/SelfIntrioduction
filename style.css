@@ -1,0 +1,172 @@
+
+
+
+.profile{
+	color: #000000;
+	background-color: #f8dce0;
+	background-image : url(画像/IMG_4284.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	width: 100%;
+	height: 100%;
+
+}
+
+.header {
+	height: 50px;
+	background-color: red;
+	display: flex;
+	justify-content: space-between;
+	padding-right: 40px;
+	position: relative flex;
+
+}
+
+p#adler {
+	background: rgba(255,255,255,0.8);
+	border: 5px,
+	justify-content: center;
+	position: relative;
+	text-align: center;
+	margin: auto;
+	border: 3px,,yellow 
+	opacity: 0.8;
+	}
+
+.oyawel {
+	display: flex;
+	flex-direction: row;
+	padding-right: 400px;
+
+}
+div.oyazi img{
+	width: 40px;
+	height: 40px;
+	padding-top: 6px;
+}
+
+.obi {
+	display: flex;
+	justify-content: center;
+	position: relative;
+	text-align: center;
+	margin-top: 20px;
+	background-color: lightblue;
+	font-size: 50px;
+	font-family: cursive;
+}
+
+
+div.haikeigazou {
+		color: #000000;
+	background-color: #f8dce0;
+	background-image: url(画像/IMG_0187.JPG);
+	background-size: cover;
+	background-repeat: repeat-y;
+}
+
+div.siro {
+	height: 100%;
+	background: rgba(255,255,255,0.5)
+}
+
+div.rekisi {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	max-width: 2500px;
+	border: none,5px, black;
+}
+
+div.tozann {
+	margin: 20px;
+	border: 5px pink solid;
+}
+
+
+
+.hennreki {
+	background-color: lightyellow;
+	background-size: cover; 
+	margin: 20px;
+	border: 5px pink solid;
+
+}
+
+.obi1 {
+	display: flex;
+	justify-content: center;
+	position: relative;
+	text-align: center;
+	margin-top: 20px;
+	background-color: lightblue;
+	font-size: 50px;
+	font-family: cursive;
+}
+
+
+.zennretu {
+	display: flex;
+	justify-content: space-between;
+	position: relative;
+	margin: 30px;
+
+}
+
+.karaoke{
+	float: left;
+	padding: 0 5px 5px 5px;
+
+}
+.karaoke {
+
+}
+
+
+.clear{
+	clear: both;
+	margin: 0 0 10px 0;
+}
+
+.kouretu {
+	display: flex;
+	justify-content: space-between;
+	margin: 30px;
+	
+}
+
+.nennpyo {
+	font-size: 10px; 
+	letter-spacing: 10px;
+}
+
+
+
+
+
+div.footer {
+	height: 50px;
+	background-color: red;
+	display: flex;
+	position: relative;
+	text-align: center;
+	padding-right: 40px;
+}
+
+div.twitter img{
+	width: 30px;
+	height: 30px;
+	padding-top: 6px;
+}
+
+div.instagram img{
+	width: 30px;
+	height: 30px;
+	padding-top: 6px;
+}
+
+
+
+
+
